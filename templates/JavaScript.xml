@@ -1,0 +1,6 @@
+<templateSet group="JavaScript">
+  <template name="lg" value="console.log($VAR$);&#10;$END$" description="insert console.log()" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context />
+  </template>
+</templateSet>
