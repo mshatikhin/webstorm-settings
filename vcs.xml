@@ -14,8 +14,12 @@
           <option name="url" value="https://github.com/mshatikhin/js-lessons.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/mshatikhin/js-2016-04-14_21-30.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\shatikhin\WebstormProjects" />
+    <option name="cloneParentDir" value="C:\Users\mshat\WebstormProjects" />
   </component>
 </application>
