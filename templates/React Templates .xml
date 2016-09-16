@@ -1,5 +1,5 @@
 <templateSet group="React Templates ">
-  <template name="rcc" value="import React from 'react';&#10;&#10;class $COMPONENT$ extends React.Component&lt;any,any&gt; {&#10;  &#10;  constructor(props) {&#10;    super(props);&#10;  }  &#10;  &#10;  render() {&#10;    return (&#10;      &lt;div&gt;$END$&lt;/div&gt;&#10;    );&#10;  }&#10;}&#10;&#10;export default $COMPONENT$;" description="react class template" toReformat="false" toShortenFQNames="true">
+  <template name="rcc" value="import React from 'react';&#10;&#10;class $COMPONENT$ extends React.Component&lt;any,any&gt; {&#10;  &#10;    constructor(props) {&#10;        super(props);&#10;    }  &#10;    &#10;    render() {&#10;        return (&#10;            &lt;div&gt;$END$&lt;/div&gt;&#10;        );&#10;    }&#10;}&#10;&#10;export default $COMPONENT$;" description="react class template" toReformat="false" toShortenFQNames="true">
     <variable name="COMPONENT" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_SCRIPT" value="true" />
