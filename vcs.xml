@@ -22,6 +22,18 @@
           <option name="url" value="https://github.com/mshatikhin/frontend-news_04.05.2017.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/mshatikhin/gemini-react-starter.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/mshatikhin/screenshot-testing-with-gemini.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://shatikhin@git.skbkontur.ru/GCloud/GCloudFront.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\mshat\WebstormProjects" />
