@@ -54,6 +54,10 @@
           <option name="url" value="https://github.com/mshatikhin/frontend-news_03.08.2017.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/mshatikhin/frontend-news_21.09.2017.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\mshat\WebstormProjects" />
