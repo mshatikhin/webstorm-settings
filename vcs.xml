@@ -74,6 +74,10 @@
           <option name="url" value="https://github.com/mshatikhin/retail-ui.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@git.skbkontur.ru:zverrr/staff-clientapp.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\mshat\WebstormProjects" />
