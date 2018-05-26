@@ -82,6 +82,10 @@
           <option name="url" value="https://github.com/mshatikhin/typescript-react-redux-app.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@git.skbkontur.ru:t1mmaas/slawwan_v2.0.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\mshat\WebstormProjects" />
