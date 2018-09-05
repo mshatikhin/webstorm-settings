@@ -1,6 +1,7 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="version" value="2.2.0.1" />
+    <option name="version" value="2.4.2-2018.1" />
     <option name="selectedTheme" value="ONE_DARK" />
+    <option name="userId" value="-5f21b38d:164c1d2afa0:-7fff" />
   </component>
 </application>
